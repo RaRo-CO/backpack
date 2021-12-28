@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466230133600",
+    "project_id": "backpack-d703a",
+    "storage_bucket": "backpack-d703a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466230133600:android:e71e9b6b75c696df171405",
+        "android_client_info": {
+          "package_name": "com.mx.backpack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466230133600-vns8b5vampogr6eoda3flc2389vhh9r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqUD9plWdJjdT5RyIY9TIXRkBVAORNz2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466230133600-vns8b5vampogr6eoda3flc2389vhh9r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
